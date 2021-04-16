@@ -1,0 +1,16 @@
+h1{
+    color :rgb(236, 128, 128);
+}
+*{
+ border-collapse: collapse;
+}
+.header{
+    background: white;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background: white;
+    display:flex;
+    justify-content: space-evenly ;
+}
